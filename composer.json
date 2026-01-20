@@ -13,7 +13,7 @@
   "homepage": "https://github.com/red-jasmine/ecommerce",
   "keywords": ["Laravel", "Ecommerce"],
   "require": {
-    "red-jasmine/support": "1.0.x-dev"
+    "red-jasmine/support": "^1.0"
   },
   "autoload": {
     "psr-4": {
